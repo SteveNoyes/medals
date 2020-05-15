@@ -1,0 +1,38 @@
+body {
+  background: #fff;
+}
+
+.card {
+  width:50%;
+  margin:auto;
+  text-align: center;
+  margin-top: 200px;
+  padding-bottom: 10px;
+  
+  border-radius: 7px;
+  background: #e3eeff;
+}
+
+.card h1 {
+  padding-top: 10px;
+  font-size: 40px;
+}
+
+.links {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.links a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+.links a:hover {
+  color: #fff;
+}
+
+span {
+  font-size: 20px;
+}
